@@ -8,8 +8,20 @@
 ***
 
 This Jupyter Notebook concerns the ```powerproduction``` data set, upon which simple linear regression is performed. Simple linear regression is also compared to other types of regression on this data set. The goal is to accurately predict wind turbine power output from wind speed values using the data set as a basis.   
+***
 
-The notebook is divided into the following sections:
+### Table of contents
+
+#### 1. What is simple linear regression?
+
+#### 2. Simple linear regression to predict power output
+- 2.1 Preliminary analysis
+- 2.2 Constructing the model
+- 2.3 Removing outliers
+
+#### 3. Polynomial regression to predict power output
+
+#### 4. References
 ***
 
 ### Executing the Jupyter Notebook
